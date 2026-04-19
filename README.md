@@ -1,20 +1,23 @@
-# Student Performance Analysis
+# Student Performance Data Analysis
 
-A data analysis project exploring factors affecting student performance using Python.
+This project explores student exam performance using Python and data visualization techniques.
 
-## 📊 Key Analysis
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Visualization of trends and patterns
+## 📊 What I Did
+- Cleaned and analyzed student data using Pandas
+- Visualized score distributions using Matplotlib & Seaborn
+- Compared performance across gender and education levels
+- Identified correlations between subjects
 
-## 🛠️ Tools & Libraries
+## 📈 Key Insights
+- Strong correlation between reading and writing scores
+- Performance patterns vary across subjects
+- External factors may influence results
+
+## 🛠️ Tools Used
 - Python
 - Pandas
-- Matplotlib / Seaborn
-
-## 📈 Insights
-- Identified patterns between study time and performance
-- Visualized trends in student scores
+- Matplotlib
+- Seaborn
 
 ## 🎯 Objective
-To practice data analysis skills and extract meaningful insights from real-world datasets
+To practice real-world data analysis and extract meaningful insights from data
